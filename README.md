@@ -14,10 +14,16 @@ TNTUnet framework
 $ pip install -r requirements.txt
 ```
 
+## Download weights
+
+Below is the link to the weights.
+https://drive.google.com/file/d/1FHuUJUI6xLpRQp-H_iACmNgNsEgzb7of/view?usp=share_link
+and put it under model/
+Please specified the settings at option/option.py
+
 ## Result
 
-https://user-images.githubusercontent.com/35917050/207776570-c4be263a-e8ec-4b65-814c-b23c020a9bb6.mp4
-
+https://user-images.githubusercontent.com/35917050/166054922-7eab556e-0c70-49f0-a454-e035f6ede8e7.mp4
 
 <!-- <img src="./img/real.png" width="200px"></img>
 <img src="./img/depth.png" width="200px"></img>
