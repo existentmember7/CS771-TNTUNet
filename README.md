@@ -17,8 +17,11 @@ $ pip install -r requirements.txt
 ## Download weights
 
 Below is the link to the weights.
+
 https://drive.google.com/file/d/1FHuUJUI6xLpRQp-H_iACmNgNsEgzb7of/view?usp=share_link
+
 and put it under model/
+
 Please specified the settings at option/option.py
 
 ## Result
